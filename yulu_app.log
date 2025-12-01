@@ -1,0 +1,182 @@
+2025-12-01 12:56:13,688 - INFO - Application started
+2025-12-01 12:56:13,690 - INFO - Loading dataset...
+2025-12-01 12:56:13,724 - INFO - Dataset loaded successfully. Shape: (10886, 12)
+2025-12-01 12:56:13,806 - INFO - Data preprocessing completed
+2025-12-01 12:56:13,836 - INFO - Data loaded successfully: 10886 rows, 21 columns
+2025-12-01 12:56:13,849 - INFO - Viewing Overview section
+2025-12-01 12:56:13,918 - INFO - Viewing EDA section
+2025-12-01 12:56:14,768 - INFO - Viewing Visualizations section
+2025-12-01 12:56:21,005 - INFO - Viewing Hypothesis Testing section
+2025-12-01 12:56:21,040 - INFO - T-Test performed: t=1.2096, p=0.226448
+2025-12-01 12:56:21,079 - INFO - ANOVA (Season) performed: F=236.9467, p=0.000000
+2025-12-01 12:56:21,266 - INFO - ANOVA (Weather) performed: F=65.5302, p=0.000000
+2025-12-01 12:56:21,525 - INFO - Viewing Insights section
+2025-12-01 12:56:21,570 - INFO - Viewing Complete Analysis section
+2025-12-01 12:57:18,679 - INFO - Application started
+2025-12-01 12:57:18,692 - INFO - Data loaded successfully: 10886 rows, 21 columns
+2025-12-01 12:57:18,702 - INFO - Viewing Overview section
+2025-12-01 12:57:18,743 - INFO - Viewing EDA section
+2025-12-01 12:57:19,197 - INFO - Viewing Visualizations section
+2025-12-01 12:57:19,693 - INFO - Viewing Hypothesis Testing section
+2025-12-01 12:57:19,743 - INFO - T-Test performed: t=1.2096, p=0.226448
+2025-12-01 12:57:19,804 - INFO - ANOVA (Season) performed: F=236.9467, p=0.000000
+2025-12-01 12:57:19,860 - INFO - ANOVA (Weather) performed: F=65.5302, p=0.000000
+2025-12-01 12:57:19,986 - INFO - Viewing Insights section
+2025-12-01 12:57:20,052 - INFO - Viewing Complete Analysis section
+2025-12-01 13:05:58 - INFO - ==================================================
+2025-12-01 13:05:58 - INFO - Yulu Application Started
+2025-12-01 13:05:58 - INFO - ==================================================
+2025-12-01 13:05:59 - INFO - Loading dataset...
+2025-12-01 13:05:59 - INFO - Dataset loaded: (10886, 12)
+2025-12-01 13:05:59 - INFO - Preprocessing completed
+2025-12-01 13:05:59 - INFO - Data ready
+2025-12-01 13:05:59 - INFO - Main tabs created
+2025-12-01 13:05:59 - INFO - Problem Statement tab accessed
+2025-12-01 13:05:59 - INFO - Interactive EDA tab accessed
+2025-12-01 13:06:01 - INFO - Univariate Analysis tab accessed
+2025-12-01 13:06:01 - INFO - Bivariate Analysis tab accessed
+2025-12-01 13:06:06 - INFO - Hypothesis Testing tab accessed
+2025-12-01 13:06:07 - INFO - Insights tab accessed
+2025-12-01 13:06:07 - INFO - Complete Analysis tab accessed
+2025-12-01 13:06:08 - INFO - Logs tab accessed
+2025-12-01 13:06:08 - INFO - Yulu App running successfully
+2025-12-01 13:06:22 - INFO - ==================================================
+2025-12-01 13:06:22 - INFO - Yulu Application Started
+2025-12-01 13:06:22 - INFO - ==================================================
+2025-12-01 13:06:23 - INFO - Data ready
+2025-12-01 13:06:23 - INFO - Main tabs created
+2025-12-01 13:06:23 - INFO - Problem Statement tab accessed
+2025-12-01 13:06:23 - INFO - Interactive EDA tab accessed
+2025-12-01 13:06:25 - INFO - Univariate Analysis tab accessed
+2025-12-01 13:06:26 - INFO - Bivariate Analysis tab accessed
+2025-12-01 13:06:27 - INFO - Hypothesis Testing tab accessed
+2025-12-01 13:06:28 - INFO - Insights tab accessed
+2025-12-01 13:06:28 - INFO - Complete Analysis tab accessed
+2025-12-01 13:06:30 - INFO - Logs tab accessed
+2025-12-01 13:06:30 - INFO - Yulu App running successfully
+2025-12-01 13:07:03 - INFO - ==================================================
+2025-12-01 13:07:03 - INFO - Yulu Application Started
+2025-12-01 13:07:03 - INFO - ==================================================
+2025-12-01 13:07:04 - INFO - Data ready
+2025-12-01 13:07:04 - INFO - Main tabs created
+2025-12-01 13:07:04 - INFO - Problem Statement tab accessed
+2025-12-01 13:07:04 - INFO - Interactive EDA tab accessed
+2025-12-01 13:07:06 - INFO - Univariate Analysis tab accessed
+2025-12-01 13:07:07 - INFO - Bivariate Analysis tab accessed
+2025-12-01 13:07:07 - INFO - Hypothesis Testing tab accessed
+2025-12-01 13:07:08 - INFO - Insights tab accessed
+2025-12-01 13:07:08 - INFO - Complete Analysis tab accessed
+2025-12-01 13:07:10 - INFO - Logs tab accessed
+2025-12-01 13:07:10 - INFO - Yulu App running successfully
+2025-12-01 13:11:08 - INFO - ==================================================
+2025-12-01 13:11:08 - INFO - Yulu Application Started
+2025-12-01 13:11:08 - INFO - ==================================================
+2025-12-01 13:11:08 - INFO - Data ready
+2025-12-01 13:11:08 - INFO - Main tabs created
+2025-12-01 13:11:08 - INFO - Problem Statement tab accessed
+2025-12-01 13:11:08 - INFO - Interactive EDA tab accessed
+2025-12-01 13:11:09 - INFO - Univariate Analysis tab accessed
+2025-12-01 13:11:09 - INFO - Bivariate Analysis tab accessed
+2025-12-01 13:11:10 - INFO - Hypothesis Testing tab accessed
+2025-12-01 13:11:10 - INFO - Insights tab accessed
+2025-12-01 13:11:11 - INFO - Complete Analysis tab accessed
+2025-12-01 13:11:12 - INFO - Logs tab accessed
+2025-12-01 13:11:12 - INFO - Yulu App running successfully
+2025-12-01 13:12:08 - INFO - ==================================================
+2025-12-01 13:12:08 - INFO - Yulu Application Started
+2025-12-01 13:12:08 - INFO - ==================================================
+2025-12-01 13:12:08 - INFO - Data ready
+2025-12-01 13:12:08 - INFO - Main tabs created
+2025-12-01 13:12:08 - INFO - Problem Statement tab accessed
+2025-12-01 13:12:08 - INFO - Interactive EDA tab accessed
+2025-12-01 13:12:10 - INFO - Univariate Analysis tab accessed
+2025-12-01 13:12:10 - INFO - Bivariate Analysis tab accessed
+2025-12-01 13:12:10 - INFO - Hypothesis Testing tab accessed
+2025-12-01 13:12:11 - INFO - Insights tab accessed
+2025-12-01 13:12:11 - INFO - Complete Analysis tab accessed
+2025-12-01 13:12:15 - INFO - Logs tab accessed
+2025-12-01 13:12:15 - INFO - Yulu App running successfully
+2025-12-01 13:15:59 - INFO - ==================================================
+2025-12-01 13:15:59 - INFO - Yulu Application Started
+2025-12-01 13:15:59 - INFO - ==================================================
+2025-12-01 13:15:59 - INFO - Data ready
+2025-12-01 13:15:59 - INFO - Main tabs created
+2025-12-01 13:15:59 - INFO - Problem Statement tab accessed
+2025-12-01 13:15:59 - INFO - Interactive EDA tab accessed
+2025-12-01 13:16:00 - INFO - Univariate Analysis tab accessed
+2025-12-01 13:16:01 - INFO - Bivariate Analysis tab accessed
+2025-12-01 13:16:01 - INFO - Hypothesis Testing tab accessed
+2025-12-01 13:16:02 - INFO - Insights tab accessed
+2025-12-01 13:16:02 - INFO - Complete Analysis tab accessed
+2025-12-01 13:16:05 - INFO - Logs tab accessed
+2025-12-01 13:16:06 - INFO - Yulu App running successfully
+2025-12-01 13:16:50 - INFO - ==================================================
+2025-12-01 13:16:50 - INFO - Yulu Application Started
+2025-12-01 13:16:50 - INFO - ==================================================
+2025-12-01 13:16:50 - INFO - Data ready
+2025-12-01 13:16:50 - INFO - Main tabs created
+2025-12-01 13:16:50 - INFO - Problem Statement tab accessed
+2025-12-01 13:16:50 - INFO - Interactive EDA tab accessed
+2025-12-01 13:16:50 - INFO - Univariate Analysis tab accessed
+2025-12-01 13:16:50 - INFO - Bivariate Analysis tab accessed
+2025-12-01 13:16:51 - INFO - Hypothesis Testing tab accessed
+2025-12-01 13:16:51 - INFO - Insights tab accessed
+2025-12-01 13:16:51 - INFO - Complete Analysis tab accessed
+2025-12-01 13:16:52 - INFO - Logs tab accessed
+2025-12-01 13:16:52 - INFO - Yulu App running successfully
+2025-12-01 13:21:29 - INFO - ==================================================
+2025-12-01 13:21:29 - INFO - Yulu Application Started
+2025-12-01 13:21:29 - INFO - ==================================================
+2025-12-01 13:21:29 - INFO - Data ready
+2025-12-01 13:21:29 - INFO - Main tabs created
+2025-12-01 13:21:29 - INFO - Problem Statement tab accessed
+2025-12-01 13:21:29 - INFO - Interactive EDA tab accessed
+2025-12-01 13:21:30 - INFO - Univariate Analysis tab accessed
+2025-12-01 13:21:31 - INFO - Bivariate Analysis tab accessed
+2025-12-01 13:21:31 - INFO - Hypothesis Testing tab accessed
+2025-12-01 13:21:32 - INFO - Insights tab accessed
+2025-12-01 13:21:32 - INFO - Complete Analysis tab accessed
+2025-12-01 13:21:36 - INFO - Logs tab accessed
+2025-12-01 13:21:36 - INFO - Yulu App running successfully
+2025-12-01 13:22:03 - INFO - ==================================================
+2025-12-01 13:22:03 - INFO - Yulu Application Started
+2025-12-01 13:22:03 - INFO - ==================================================
+2025-12-01 13:22:03 - INFO - Data ready
+2025-12-01 13:22:03 - INFO - Main tabs created
+2025-12-01 13:22:03 - INFO - Problem Statement tab accessed
+2025-12-01 13:22:04 - INFO - Interactive EDA tab accessed
+2025-12-01 13:22:05 - INFO - Univariate Analysis tab accessed
+2025-12-01 13:22:05 - INFO - Bivariate Analysis tab accessed
+2025-12-01 13:22:06 - INFO - Hypothesis Testing tab accessed
+2025-12-01 13:22:06 - INFO - Insights tab accessed
+2025-12-01 13:22:06 - INFO - Complete Analysis tab accessed
+2025-12-01 13:22:10 - INFO - Logs tab accessed
+2025-12-01 13:22:11 - INFO - Yulu App running successfully
+2025-12-01 13:24:29 - INFO - ==================================================
+2025-12-01 13:24:29 - INFO - Yulu Application Started
+2025-12-01 13:24:29 - INFO - ==================================================
+2025-12-01 13:24:29 - INFO - Data ready
+2025-12-01 13:24:29 - INFO - Main tabs created
+2025-12-01 13:24:29 - INFO - Problem Statement tab accessed
+2025-12-01 13:24:29 - INFO - Interactive EDA tab accessed
+2025-12-01 13:24:30 - INFO - Univariate Analysis tab accessed
+2025-12-01 13:24:30 - INFO - Bivariate Analysis tab accessed
+2025-12-01 13:24:31 - INFO - Hypothesis Testing tab accessed
+2025-12-01 13:24:31 - INFO - Insights tab accessed
+2025-12-01 13:24:31 - INFO - Complete Analysis tab accessed
+2025-12-01 13:24:35 - INFO - Logs tab accessed
+2025-12-01 13:24:35 - INFO - Yulu App running successfully
+2025-12-01 13:27:48 - INFO - ==================================================
+2025-12-01 13:27:48 - INFO - Yulu Application Started
+2025-12-01 13:27:48 - INFO - ==================================================
+2025-12-01 13:27:48 - INFO - Data ready
+2025-12-01 13:27:48 - INFO - Main tabs created
+2025-12-01 13:27:48 - INFO - Problem Statement tab accessed
+2025-12-01 13:27:48 - INFO - Interactive EDA tab accessed
+2025-12-01 13:27:49 - INFO - Univariate Analysis tab accessed
+2025-12-01 13:27:49 - INFO - Bivariate Analysis tab accessed
+2025-12-01 13:27:50 - INFO - Hypothesis Testing tab accessed
+2025-12-01 13:27:50 - INFO - Insights tab accessed
+2025-12-01 13:27:50 - INFO - Complete Analysis tab accessed
+2025-12-01 13:27:53 - INFO - Logs tab accessed
+2025-12-01 13:27:53 - INFO - Yulu App running successfully
